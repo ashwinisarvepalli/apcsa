@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=RecursionMountain
+comment1.params=
+comment1.target=RecursionMountain()
+comment10.params=
+comment10.target=void\ buildForest()
+comment11.params=
+comment11.target=void\ buildHouse()
+comment12.params=
+comment12.target=void\ snowFall()
+comment2.params=j\ k
+comment2.target=void\ drawsierp(int,\ int)
+comment3.params=n\ size
+comment3.target=void\ draw(int,\ int)
+comment4.params=x
+comment4.target=void\ drawmoon(double)
+comment5.params=le\ si
+comment5.target=void\ drawCloud(double,\ double)
+comment6.params=l\ s
+comment6.target=void\ drawTree(double,\ double)
+comment7.params=levels\ size
+comment7.target=void\ partSnow(double,\ double)
+comment8.params=x\ y
+comment8.target=void\ drawSnow(double,\ double)
+comment9.params=
+comment9.target=void\ makeClouds()
+numComments=13
